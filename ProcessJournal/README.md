@@ -1,4 +1,4 @@
 # Journal entry: week 2
 # This week, the teams were finalized and we started brainstorming for our assigned project, Pippin’s Game Design Education software. We created a group Figma board to gather inspiration, roles and potential questions for Pippin. Certain software that came to mind were things like Scratch, RPGMaker, and Pippin’s own variations on Pong. Some of the questions we discussed were how pedagogical it should be, or for what demographic this software was being designed(ex. children, young adults in university). When we went up to present our cursory brainstorming, Elio suggested an approach that I personally found extremely interesting as someone with a big interest in linguistics, which was to focus on exploring the relationship between natural language and code. Depending on the information and answers we get from our client, this could be a fun idea to incorporate. 
-![image failed to laod](processimages\questionsforpippin351.png)
+![image failed to laod](<processimages\questionsforpippin351.png>)
 # ---------------------------------------------------------------------------------------------------------
