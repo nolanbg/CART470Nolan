@@ -1,0 +1,1 @@
+# Nolan's repo for CART 470. Journal entries are in the 'ProcessJournal' folder
